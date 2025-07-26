@@ -1,3 +1,8 @@
+# --- Analysis Task 4 ---
+# author: Angelo Rosal
+# instructor: Professor David Brook Conner
+# date: 2025-07-25
+
 from data import User, Post, Comment
 from datetime import datetime, timedelta
 
